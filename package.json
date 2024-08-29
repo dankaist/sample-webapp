@@ -1,0 +1,11 @@
+{
+  "name": "@dankaist/sample-webapp",
+  "version": "0.0.1",
+  "repository": "https://github.com/dankaist/sample-webapp",
+  "scripts": {
+    "start": "http-server"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
