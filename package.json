@@ -1,6 +1,6 @@
 {
-  "name": "@dankaist/sample-webapp",
-  "version": "0.0.1",
+  "name": "@dankaist/sample-webapp-test",
+  "version": "0.0.2",
   "repository": "https://github.com/dankaist/sample-webapp",
   "scripts": {
     "start": "http-server"
